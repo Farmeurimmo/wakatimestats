@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2022 - To: 08 March 2024
+From: 21 January 2022 - To: 09 March 2024
 
-Total Time: 1,223 hrs 51 mins
+Total Time: 1,224 hrs 46 mins
 
-Java                                     927 hrs 11 mins >>>>>>>>>>>>>>>>>>>------   75.76 %
-XML                                      56 hrs 9 mins   >------------------------   04.59 %
+Java                                     927 hrs 30 mins >>>>>>>>>>>>>>>>>>>------   75.73 %
+XML                                      56 hrs 27 mins  >------------------------   04.61 %
 TypeScript                               42 hrs 44 mins  >------------------------   03.49 %
 CSS                                      29 hrs 42 mins  >------------------------   02.43 %
 Python                                   26 hrs 58 mins  >------------------------   02.20 %
