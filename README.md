@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2022 - To: 05 July 2024
+From: 21 January 2022 - To: 06 July 2024
 
-Total Time: 1,411 hrs 11 mins
+Total Time: 1,411 hrs 46 mins
 
-Java                                     1,029 hrs 5 mins>>>>>>>>>>>>>>>>>>-------   72.92 %
+Java                                     1,029 hrs 40 mins>>>>>>>>>>>>>>>>>>-------   72.93 %
 Svelte                                   66 hrs 25 mins  >------------------------   04.71 %
-XML                                      59 hrs 45 mins  >------------------------   04.24 %
+XML                                      59 hrs 45 mins  >------------------------   04.23 %
 TypeScript                               43 hrs 23 mins  >------------------------   03.07 %
 Python                                   32 hrs 1 min    >------------------------   02.27 %
 CSS                                      30 hrs 30 mins  >------------------------   02.16 %
