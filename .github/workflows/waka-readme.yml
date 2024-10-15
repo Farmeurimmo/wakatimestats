@@ -1,14 +1,14 @@
-name: Waka Readme
+name: Waka Readme All time
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "8 0 * * *"
+    # Runs at 6am UTC
+    - cron: "0 6 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaReadme DevMetrics Alltime
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -19,6 +19,6 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+          LANG_COUNT: 15
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: Farmeurimmo/wakatimestats
