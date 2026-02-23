@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2022 - To: 20 February 2026
+From: 21 January 2022 - To: 21 February 2026
 
-Total Time: 2,800 hrs 55 mins
+Total Time: 2,801 hrs 28 mins
 
-Java                                     1,523 hrs 54 mins     >>>>>>>>>>>>>>-----------   54.41 %
+Java                                     1,524 hrs 23 mins     >>>>>>>>>>>>>>-----------   54.41 %
 Vue.js                                   184 hrs 39 mins       >>-----------------------   06.59 %
 TypeScript                               115 hrs 31 mins       >------------------------   04.12 %
 JavaScript                               109 hrs 33 mins       >------------------------   03.91 %
