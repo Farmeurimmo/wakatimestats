@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2022 - To: 03 June 2026
+From: 21 January 2022 - To: 04 June 2026
 
-Total Time: 3,025 hrs 13 mins
+Total Time: 3,027 hrs 45 mins
 
-Java                                     1,558 hrs 19 mins     >>>>>>>>>>>>>------------   51.51 %
+Java                                     1,558 hrs 19 mins     >>>>>>>>>>>>>------------   51.47 %
 Vue.js                                   189 hrs 24 mins       >>-----------------------   06.26 %
 C++                                      126 hrs 28 mins       >------------------------   04.18 %
 JavaScript                               125 hrs               >------------------------   04.13 %
@@ -15,7 +15,7 @@ Python                                   123 hrs 30 mins       >----------------
 TypeScript                               115 hrs 39 mins       >------------------------   03.82 %
 Svelte                                   85 hrs 24 mins        >------------------------   02.82 %
 C                                        83 hrs 32 mins        >------------------------   02.76 %
-Markdown                                 77 hrs 57 mins        >------------------------   02.58 %
+Markdown                                 77 hrs 57 mins        >------------------------   02.57 %
 XML                                      71 hrs 30 mins        >------------------------   02.36 %
 CSS                                      59 hrs 43 mins        -------------------------   01.97 %
 HTML                                     52 hrs 33 mins        -------------------------   01.74 %
